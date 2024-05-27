@@ -1,0 +1,13 @@
+{
+  "LOGIN_TITLE": "{{app}} login",
+  "LOGIN_BELOW": "Please log in below.",
+  "WELCOME": "Welcome to {{app}}",
+  "LOGIN_PASSWORD": "Check the config file at {{configFile}} for the password.",
+  "LOGIN_USING_ENV_PASSWORD": "Password has been set from the startup tab of the server.",
+  "LOGIN_USING_HASHED_PASSWORD": "Password was set from $HASHED_PASSWORD.",
+  "SUBMIT": "SUBMIT",
+  "PASSWORD_PLACEHOLDER": "PASSWORD",
+  "LOGIN_RATE_LIMIT": "You have exceeded the maximum number of login attempts. Please wait a few minutes before trying again.",
+  "MISS_PASSWORD": "You need to enter a password to log in.",
+  "INCORRECT_PASSWORD": "You have entered an incorrect password, please try again.",
+}
